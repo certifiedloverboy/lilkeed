@@ -1,0 +1,2 @@
+# Use the custom 404 page for any not found errors
+ErrorDocument 404 /404.html
